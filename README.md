@@ -77,6 +77,9 @@ Go to yout (localhost)[http://127.0.0.1] and you should start test the app on yo
 - Twitter: [@twitterhandle](https://twitter.com/christian_siku)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/christian-siku/)
 
+## Aknowledgement
+ - All my acknowledments goes to the (JS Mastery)[https://www.jsmastery.pro/] community
+
 ## Contributing 🤝 
 
 Contributions, issues, and feature requests are welcome!
