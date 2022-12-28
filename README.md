@@ -2,7 +2,7 @@
  
  # OpendAI-API
 
-> This project is a web application that ressemble to the ChatGPT, You can have a Communication with advanced GPT3 model API, and most importantly, you have the ability to ask the AI for help regarding JavaScript, React, or any other programming language, giving it code and translating it to another programming language, and much more
+> This project is a web application that resembles ChatGPT, You can have Communication with advanced GPT3 model API, and most importantly, you have the ability to ask the AI for help regarding JavaScript, React, or any other programming language, giving it code and translating it to another programming language, and much more.
 
 
 ![cicada](https://user-images.githubusercontent.com/101924220/209849281-6c56ee68-c034-4287-8664-170d8f0f4ecf.PNG)
